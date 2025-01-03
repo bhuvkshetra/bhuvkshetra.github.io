@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on BhuvKshetra</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on BhuvKshetra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chennai</title>
+      <link>http://localhost:1313/categories/chennai/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/chennai/</guid><media:content url="http://localhost:1313/categories/chennai/kevin_hu5476480561583976440.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/categories/chennai/kevin_hu5476480561583976440.jpg&quot; /&gt;
+          &lt;p&gt;Projects in Chennai&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Hyderbad</title>
+      <link>http://localhost:1313/categories/hyderbad/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/hyderbad/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Animals</title>
+      <link>http://localhost:1313/categories/animals/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/animals/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Hyderabad</title>
+      <link>http://localhost:1313/categories/hyderabad/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/hyderabad/</guid><media:content url="http://localhost:1313/categories/hyderabad/kevin_hu5476480561583976440.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/categories/hyderabad/kevin_hu5476480561583976440.jpg&quot; /&gt;
+          &lt;p&gt;Projects in Hyderabad&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Mumbai</title>
+      <link>http://localhost:1313/categories/mumbai/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/mumbai/</guid><media:content url="http://localhost:1313/categories/mumbai/categories/mumbai/kevin-chin-u-EtfvMB7JM-unsplash_hu5476480561583976440.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/categories/mumbai/categories/mumbai/kevin-chin-u-EtfvMB7JM-unsplash_hu5476480561583976440.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Nature</title>
+      <link>http://localhost:1313/categories/nature/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/nature/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>

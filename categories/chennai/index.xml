@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chennai on BhuvKshetra</title>
+    <link>http://localhost:1313/categories/chennai/</link>
+    <description>Recent content in Chennai on BhuvKshetra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/chennai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andheri</title>
+      <link>http://localhost:1313/mumbai/andheri/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mumbai/andheri/</guid><media:content url="http://localhost:1313/mumbai/andheri/andheri_hu16930039061431325606.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/mumbai/andheri/andheri_hu16930039061431325606.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bhuvkshetra</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/</guid><media:content url="http://localhost:1313/kevin_hu5476480561583976440.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/kevin_hu5476480561583976440.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
